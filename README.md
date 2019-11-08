@@ -1,5 +1,5 @@
 # Hello_World
 Sample Github learning
 
-Hi , 
+Hello , 
    I am new to Github. 
